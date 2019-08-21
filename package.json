@@ -1,0 +1,15 @@
+{
+  "name": "sdd",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "deploy": "gh-pages -d dist"
+  },
+  "author": "David",
+  "license": "ISC",
+  "homepage": "https://donewasting.github.io/Portfolio",
+  "dependencies": {
+    "gh-pages": "^2.0.1"
+  }
+}
