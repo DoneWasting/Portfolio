@@ -3758,7 +3758,7 @@ input, select, textarea {
 
 
 #footer .split .information h3{
-	padding-left: 1.3rem;
+	padding-left: 1rem;
 	font-size: 1rem;
 	
 	
@@ -3767,16 +3767,19 @@ input, select, textarea {
 
 
 
+
+
 #footer .split .information p{
-	padding-left: 0.6rem;
-	font-size: 1rem;
+	padding-left: 0.8rem;
+	font-size: 0.8rem;
 	
 		
 	
 }
 
 #footer .icons {
-	padding-left: 1.3rem;
+	padding-left: 1.1rem;
+	
 }
 
 #footer .split .information p:nth-of-type(2){
